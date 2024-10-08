@@ -22,6 +22,7 @@ After falling down at the start of 2022, the company sales seem to have increase
 
 ![Exec Summary ](https://github.com/user-attachments/assets/6f625fcf-f637-47b0-bf78-4aac16738eae)
 
-
+## Sales Trends
+- **The total sales for 2022 are $91,85,449 and that of 2021 is $93,24,203 highlighting that there has been a slight decrease of -1.49% in the sales.** The total sales for the year 2020 are $64,04,933 . The overall sales have gradually increased due to the pandemic being over and more people buying accessories to go out for adventures.
 
 
