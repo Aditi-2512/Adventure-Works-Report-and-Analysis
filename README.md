@@ -23,6 +23,11 @@ After falling down at the start of 2022, the company sales seem to have increase
 ![Exec Summary ](https://github.com/user-attachments/assets/6f625fcf-f637-47b0-bf78-4aac16738eae)
 
 ## Sales Trends
-- **The total sales for 2022 are $91,85,449 and that of 2021 is $93,24,203 highlighting that there has been a slight decrease of -1.49% in the sales.** The total sales for the year 2020 are $64,04,933 . The overall sales have gradually increased due to the pandemic being over and more people buying accessories to go out for adventures.
+- **The total sales for 2022 are $91,85,449 and that of 2021 is $93,24,203 highlighting that there has been a slight decrease of -1.49% in the sales.** The total sales for the year 2020 are $64,04,933. The overall sales have gradually increased due to the pandemic being over and more people buying accessories to go out for adventures.
+-  **United States is the country among all the countries with the highest number of sales with the Southwest region at the top with $19,11,216, followed by the Northwest region with $12,08,890.**
+-  Among all of our customers, people with a Professional occupation are more likely to purchase from us.**In 2022, people having professional occupations have contributed to $33,61,902 in sales.**
+  The customers who are skilled in manual and management positions are on the 2nd and 3rd numbers with $18,80,098 and $17,14,960 in sales.
+- The last quarter of the year i.e., October, November, and December have the highest number of sales throughout the year. It is prominent as it is usually festive season and people start investing for the upcoming year ahead. **The sales for October are $10,298,21, for November the sales are $11,33,913 and for December the sales are $16,35,308.**
+- **The returns have increased drastically with 972 products returned in 2022 as compared to 770 products in 2021.** The returns can be justified as the sales also have increased but some alternate steps should be taken to keep this return in control.
 
 
